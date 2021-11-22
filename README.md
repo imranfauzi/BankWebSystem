@@ -12,3 +12,8 @@ My team members:
 
 Link to the system's presentation:
 https://drive.google.com/file/d/1BtvsaGRzB7JqsGUOU8fShzm1yt3yUOhE/view?usp=sharing
+
+
+Project Details:
+ - Jakarta Server Page (backend)
+ - MySQL (database)
